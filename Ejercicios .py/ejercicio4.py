@@ -2,8 +2,8 @@
 # Archivo: Ejercicio 4: Autorización inicial de lanzamiento 
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCP0 
 # Integrantes: Sebastian Miguel Segura Arias, Valeria Acuña Castillo 
-# Fecha: xx/xx/2026 Versión: 1.0 
-# Descripción:
+# Fecha: 18/10/2026 Versión: 1.0 
+# Descripción:Realiza la verificación integral de todos los recursos requeridos (combustible, oxígeno, energía y provisiones) para autorizar o denegar el lanzamiento inicial de la misión.
 # ============================================================
 
 # Declaración de constantes

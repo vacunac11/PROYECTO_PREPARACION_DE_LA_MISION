@@ -2,7 +2,7 @@
 # Archivo: Ejercicio 3: Verificación del soporte para la tripulación 
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCP0 
 # Integrantes: Sebastian Miguel Segura Arias, Valeria Acuña Castillo 
-# Fecha: xx/xx/2026 Versión: 1.0 
+# Fecha: 18/10/2026 Versión: 1.0 
 # Descripción: Verificación del soporte para la tripulación
 # ============================================================
 

@@ -2,7 +2,7 @@
 # Archivo: Ejercicio 1 Cálculo de recursos necesarios para una misión 
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCP0 
 # Integrantes: Sebastian Miguel Segura Arias, Valeria Acuña Castillo 
-# Fecha: xx/xx/xxxx Versión: 1.0 
+# Fecha: 18/10/2026 Versión: 1.0 
 # Descripción: Analiza los recursos necesarios para una misión espacial y calcula los requerimientos de combustible, oxígeno, energía y provisiones.
 # ============================================================
 
