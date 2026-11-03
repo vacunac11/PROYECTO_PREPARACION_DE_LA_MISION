@@ -19,13 +19,13 @@ combustible_total_requerido = combustible_ida + combustible_regreso + RESERVA_CO
 combustible_adicional = combustible_disponible - combustible_total_requerido
 
 # Salidas obligatorias
-print("Combustible disponible:", combustible_disponible, "unidades")
+print("Combustible disponible:" + combustible_disponible + " unidades")
 print("Combustible requerido para llegar:", combustible_ida, "unidades")
 print("Combustible requerido para regresar:", combustible_regreso, "unidades")
 print("Reserva de emergencia:", RESERVA_COMBUSTIBLE, "unidades")
 print("Combustible total requerido:", combustible_total_requerido, "unidades")
 print("Combustible adicional disponible:", combustible_adicional, "unidades")
 
-# Regla de advertencia (condicional simple)
+# Regla de advertencia 
 if combustible_adicional < 10:
     print("Advertencia: el margen adicional de combustible es bajo.")

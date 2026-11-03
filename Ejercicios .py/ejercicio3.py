@@ -12,8 +12,8 @@ oxigeno_requerido = int(input("Ingrese la cantidad de oxígeno requerido: "))
 provisiones_disponibles = int(input("Ingrese la cantidad de provisiones disponibles: "))
 provisiones_requeridas = int(input("Ingrese la cantidad de provisiones requeridas: "))
 
-# Regla de decisión (condicional doble)
-if oxigeno_disponible >= oxigeno_requerido and provisiones_disponibles >= provisiones_requeridas:
-    print("La nave posee recursos suficientes para la tripulación.")
-else:
-    print("La nave no posee recursos suficientes para la tripulación.")
+# Regla de decisión 
+if oxigeno_disponible >= oxigeno_requerido and provisiones_disponibles >= provisiones_requeridas
+print("La nave posee recursos suficientes para la tripulación.")
+else
+print("La nave no posee recursos suficientes para la tripulación.")
