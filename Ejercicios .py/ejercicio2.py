@@ -1,4 +1,4 @@
-# ============================================================ 
+    # ============================================================ 
 # Archivo: Ejercicio 2: Verificación de combustible 
 # Curso: SOFT-01 Principios de Programación 1 - Sección SCP0 
 # Integrantes: Sebastian Miguel Segura Arias, Valeria Acuña Castillo 
